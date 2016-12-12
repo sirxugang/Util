@@ -4,4 +4,8 @@
         <attr name="lineSpacing" format="dimension" />
         <attr name="maxLine" format="integer" />
     </declare-styleable>
+    <declare-styleable name="MySwitchButton">
+        <attr name="bmWidth" format="dimension"/>
+        <attr name="bmHeight" format="dimension"/>
+    </declare-styleable>
 </resources>

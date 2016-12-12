@@ -1,9 +1,11 @@
-package com.xugang.utils;
+package com.xugang.utils.massege;
+
+import com.xugang.utils.Config;
 
 /**
  * Created by ASUS on 2016-11-20.
  */
-public class LogUtil {
+public class Log {
     private static final String TAG = Config.SIGN;
 
     public static void i(String msg) {
